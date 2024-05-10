@@ -1,0 +1,9 @@
+variable "project-name" {}
+variable "my-sg-1" {}
+variable "my-sg-2" {}
+variable "my-sg-3" {}
+variable "my-sg-4" {}
+variable "my-public-1" {}
+variable "my-private-2" {}
+variable "my-public-3" {}
+variable "my-private-4" {}
