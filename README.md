@@ -1,2 +1,2 @@
 # Terraform-VPC-Transit-Gateway
-CMC
+Hậ tầng bao gồm: 4 VPC 4 Instance
